@@ -1,0 +1,4 @@
+tim@gmail.com;1234;tim;2019-03-02
+renatovitorasso@hotmail.com;aaa;Renato;2020-08-31
+carolinavitorasso@hotmail.com;bbb;carol;2020-08-31
+r@r.r;r;r;2020-09-01
