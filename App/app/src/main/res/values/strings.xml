@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">PI_7_Sem</string>
+    <string name="identGasto">Itens_1</string>
+
+<string-array name="listaGasto">
+    <item>Alimentação</item>
+    <item>Laser</item>
+    <item>Aluguel ou contas de casa</item>
+    <item>Doação</item>
+    <item>Cursos</item>
+    <item>Imprevistos</item>
+
+</string-array>
+</resources>
